@@ -1,0 +1,5 @@
+npm i mongoose 
+
+Schema - Define the Structure
+    Using the Schema -  Create Model 
+    Using Model we do CRUD operation
